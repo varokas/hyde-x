@@ -378,3 +378,15 @@ a.label:focus {
   background-color: #fff;
   border-color: #ddd;
 }
+
+.facebook-icon:hover {
+  color: rgb(45,181,255);
+}
+
+.github-icon:hover {
+  color: rgb(147,195,95);
+}
+
+.linkedin-icon:hover {
+  color: rgb(31,135,188);
+}
