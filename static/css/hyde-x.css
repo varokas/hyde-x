@@ -390,3 +390,12 @@ a.label:focus {
 .linkedin-icon:hover {
   color: rgb(31,135,188);
 }
+
+.post h1 { 
+  margin-top: 0;
+  margin-bottom: 1em; 
+}
+
+.post h2 {
+  margin-top: 1.3em;
+}
