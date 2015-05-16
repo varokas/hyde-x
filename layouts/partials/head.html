@@ -35,4 +35,6 @@
   {{ with .Site.Params.googleAuthorship }}<link rel="author" href="http://plus.google.com/{{ . }}">{{ end }}
 </head>
 <body{{ with .Site.Params.theme }} class="{{ . }}"{{ end }}>
+<div class="outside-container">
 {{ partial "sidebar.html" . }}
+
